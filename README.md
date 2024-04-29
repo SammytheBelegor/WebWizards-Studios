@@ -36,8 +36,7 @@ Also here are some screenshots:
 ![Screenshot (127)](https://github.com/SammytheBelegor/WebWizards-Studios/assets/71520900/5024dde3-f629-49ba-a54e-309a8f4dd93e)
 ![Screenshot (126)](https://github.com/SammytheBelegor/WebWizards-Studios/assets/71520900/b0d17d92-55c9-436a-b027-5fada3d4e025)
 
-
-
+Deployments soon to be added!
 
 Conclusion
 Thanks for exploring the WebWizards Studios Portfolio Website! Enjoy browsing through our projects, services, and testimonials. Your feedback is appreciated. 🚀
